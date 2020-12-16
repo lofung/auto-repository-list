@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/auto-repository-list/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/auto-repository-list/static/js/main.ce502d9b.chunk.js",
+    "main.js.map": "/auto-repository-list/static/js/main.ce502d9b.chunk.js.map",
+    "runtime-main.js": "/auto-repository-list/static/js/runtime-main.2654dbc7.js",
+    "runtime-main.js.map": "/auto-repository-list/static/js/runtime-main.2654dbc7.js.map",
+    "static/js/2.05341991.chunk.js": "/auto-repository-list/static/js/2.05341991.chunk.js",
+    "static/js/2.05341991.chunk.js.map": "/auto-repository-list/static/js/2.05341991.chunk.js.map",
+    "index.html": "/auto-repository-list/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/auto-repository-list/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.05341991.chunk.js.LICENSE.txt": "/auto-repository-list/static/js/2.05341991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2654dbc7.js",
+    "static/js/2.05341991.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.ce502d9b.chunk.js"
+  ]
+}
